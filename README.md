@@ -1,2 +1,2 @@
 # CI-CD-Integration
-This project is about Continuous imployment n con deploy at an organization
+This project is about Continuous Integration and Continuous Deployment at an organization
